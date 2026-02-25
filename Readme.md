@@ -22,8 +22,8 @@ Make sure you have **Python 3.x** installed on your system.
 ### Installation & Execution
 
 1. Clone or Download this repository.
-2. Save the code as `main.py`.
+2. Save the code as `calculate.py`.
 3. Open your terminal or command prompt and run:
    ```bash
-   python main.py
+   python calculate.py
    ```
